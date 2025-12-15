@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Douglas Tavares
 
-<!--
-**douglastavares2702/douglastavares2702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧪 Software Quality Analyst | QA Engineer
 
-Here are some ideas to get you started:
+Software Quality Analyst with **5 years of experience** in manual and automated testing, focused on delivering reliable, high-quality software products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have strong attention to detail, experience identifying defects and anomalies, and solid analytical skills to interpret test results, identify patterns, and propose effective technical solutions.
+
+## 🛠️ Testing & Automation Tools
+- Cypress
+- Playwright
+- Robot Framework
+- Postman
+- Appium
+- k6 (Performance Testing)
+
+## ⚙️ Test Management & Collaboration
+- Azure DevOps
+- Jira
+- Trello
+- Octane
+- Git & GitHub (Code Review, Version Control)
+
+## 📊 Testing Expertise
+- Manual Testing
+- Automated UI Testing
+- API Testing
+- Performance & Load Testing
+- Data-driven tests (CSV / JSON)
+- Agile methodologies (Scrum / Kanban)
+
+## 🎓 Education
+- Postgraduate Degree in Software Engineering
+- Bachelor’s Degree in Business Administration
+
+## 🌎 Languages
+- English: B1 (Improving)
+
+## 📫 Contact
+- ✉️ Email: datg2702@hotmail.com
+- 📱 Phone: +55 (21) 98863-2111
+- 🔗 LinkedIn: https://www.linkedin.com/in/douglas-tavares-02127567/
+- 🐙 GitHub: https://github.com/douglastavares2702
